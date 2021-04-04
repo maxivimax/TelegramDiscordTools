@@ -12,5 +12,5 @@
 # Планы
 
 - [ ] Система для автоматической смены статуса по списку с задержкой
-- [ ] Смена ника (<strong>Write LETTERS</strong>#0002)
-- [ ] Смена идентификатора (Write LETTERS<strong>#0002</strong>)
+- [ ] Смена ника (<strong>`Write LETTERS`</strong>#0002)
+- [ ] Смена идентификатора (Write LETTERS<strong>`#0002`</strong>)
