@@ -1,3 +1,3 @@
 # Вассап
 <br/>
-[https://camo.githubusercontent.com/4c820a968e4d8eb5ce2e93cb7a9463e4cf4e1dc164060296d4ce7dcf97ec503a/68747470733a2f2f63646e2e737461746963616c792e636f6d2f67682f686a6e696c73736f6e2f636f756e7472792d666c6167732f6d61737465722f7376672f72752e737667](https://github.com/maxivimax/TelegramDiscordTools/blob/main/translations/readme.ru.md)
+[dfgdfg](https://github.com/maxivimax/TelegramDiscordTools/blob/main/translations/readme.ru.md)
