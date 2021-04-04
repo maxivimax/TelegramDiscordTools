@@ -4,13 +4,10 @@
 <kbd>[<img title="English" alt="English" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/gb.svg" width="22">](translations/readme.en.md)</kbd>
 
 
-# 
-
 # Что это и зачем?
 
 Это проект, opensource, попытка создать бота для управления и автоматизации аккаунта Discord. Пока что есть небольшие планы для него, они ниже)
 
-#
 
 # Планы
 
