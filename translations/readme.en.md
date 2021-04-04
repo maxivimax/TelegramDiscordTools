@@ -7,6 +7,10 @@
 
 This is an opensource project, an attempt to create a bot to manage and automate a Discord account. So far there are small plans for him, they are below)
 
+# A small guide
+
+This is all written in NodeJS, so install it) Everything. So far, nothing else, if it's not lazy, I'll write the documentation
+
 # Plans
 
 - [ ] System for automatic status change according from list with a delay
